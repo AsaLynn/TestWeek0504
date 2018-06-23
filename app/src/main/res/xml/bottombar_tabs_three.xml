@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tabs>
+    <tab
+        icon="@drawable/ic_account_balance"
+        id="@+id/tab_favorites"
+        title="最新" />
+    <tab
+        icon="@drawable/ic_assignment"
+        id="@+id/tab_nearby"
+        title="往期" />
+
+</tabs>
